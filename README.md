@@ -1,80 +1,89 @@
-## 👋 Hello there, I'm Saranya!
+<h1 align="center">👋 Hello World, I'm <span style="color:#4CAF50;">Saranya</span>!</h1>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to my GitHub profile! I'm a passionate **developer**, **tech enthusiast**, and **lifelong learner** who's always exploring new things in the world of software and development.
-
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **full-stack development projects** using Django, React, and REST APIs.
-- 🌱 I’m currently learning **Cloud Computing (AWS, GCP)** and **DevOps fundamentals**.
-- 💡 I love building **innovative projects**, solving real-world problems, and making **tech more accessible**.
-- 📚 I believe in **continuous learning** and am always up for a new challenge.
-- 🧠 Always curious | Always coding | Always growing.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=💻+Full+Stack+Web+Developer;🎯+Passionate+Problem+Solver;🌱+Forever+Learning;📸+Creative+Builder" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks & Tools:**  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Databases:**  
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🚀 About Me
+- 🔭 Working on **Django + React full-stack projects**
+- 🧠 Learning **DevOps, Cloud (AWS)** and **Advanced Django**
+- 👩‍💻 Passionate about creating real-world tech solutions
+- 💡 Loves simplifying complex concepts & writing clean code
+- ✨ Curious | Creative | Collaborative
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🖼️ Memory Lane](https://github.com/username/memory-lane) | A photo gallery app to store personal memories with tagging and restore functionality | Django, SQLite, Bootstrap |
-| [💼 SkillSprint](https://github.com/username/skillsprint) | Online course platform with certificate generation and student-instructor dashboard | Django, REST API, Media Upload |
-| [📊 CRM System](https://github.com/username/crm-django) | Role-based CRM dashboard with tasks, messaging, lead tracking, and notifications | Django, Role Auth, SQLite |
+### 👩‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
----
+### ⚙️ Frameworks & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7411F6?style=for-the-badge&logo=bootstrap)
 
-### 📈 GitHub Stats
+### 💾 Databases
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql)
 
-![Saranya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaranyaC23&show_icons=true&theme=radical&hide=prs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaranyaC23&layout=compact&theme=radical)
-
----
-
-### 💬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/Saranya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saranya-your-id)  
-[![Gmail](https://img.shields.io/badge/Email-saranya@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saranya@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages&logoColor=white)](https://your-portfolio-link.com)
-
----
-
-### ⚡ Fun Facts
-
-- 🧩 I love solving puzzles and logic games in my free time.
-- 🎨 I enjoy experimenting with UI/UX design in web projects.
-- 🌍 I’m always excited to collaborate on open-source projects that help others!
+### 🛠️ Dev & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🌟 Featured Projects
+
+| 🔗 Project | 💬 Description | 🔧 Tech |
+|-----------|----------------|--------|
+| [🖼️ Memory Lane](https://github.com/username/memory-lane) | A photo gallery app with tagging and soft delete/restore | Django, Bootstrap |
+| [📚 SkillSprint](https://github.com/username/skillsprint) | Online course & certificate platform with instructor tools | Django, REST API |
+| [📊 CRM System](https://github.com/username/crm-django) | Lead tracking, role dashboards, tasks, messaging | Django, SQLite |
 
 ---
 
-✨ _Thanks for visiting my profile! Keep exploring, keep building._  
+## 📈 GitHub Stats & Extras
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaranyaC23&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaranyaC23&layout=compact&theme=radical" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SaranyaC23&label=👀+Profile+Views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:saranya@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/saranya-your-id"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+</p>
+
+---
+
+## ⚡ Fun Facts
+- 🧩 I love puzzles, escape rooms, and brain teasers.
+- 🎨 I design minimalist UIs in Figma and experiment with motion design.
+- 🗣️ I enjoy mentoring juniors and sharing what I learn.
+- 🎵 Can code for hours if there's lo-fi or instrumental music.
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
+
+---
+
+<p align="center">✨ Thanks for scrolling! Let’s build something amazing together 🚀</p>
